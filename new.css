@@ -12,3 +12,8 @@ h2 {
 p {
 background-color: yellow;
 }
+
+ul {
+  border: 5px solid purple;
+  width:200px;
+}
