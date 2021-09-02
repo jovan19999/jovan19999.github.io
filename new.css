@@ -17,3 +17,11 @@ ul {
   border: 5px solid purple;
   width:200px;
 }
+
+#lamp {
+  border: 2px solid tan;
+}
+
+.nobody {
+font-style: italic;
+}
