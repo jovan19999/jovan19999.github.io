@@ -35,7 +35,7 @@ p.nobody {
 font-style: italic;
 }
 
-.box {
+.box, .window {
 width: 400px;
   height: 400px;
   background-color: blue;
@@ -50,3 +50,19 @@ background-color: darkgreen;
   font-weight: bold;
   font-size: 30px;
 }
+
+#shoe {
+width: 400px;
+  height: 400px;
+  background-color: purple;
+  border: 10px solid red;
+  padding: 10px; 
+  margin: 20px;
+}
+
+#shoe .window {
+color: yellow;
+  font-size: 30px;
+}
+
+
