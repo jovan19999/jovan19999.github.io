@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>My Web Site</title>
+</head>
+
+<body>
+
+  <h1>My Home Page</h1>
+
+<!--Start unordered list of navigation links-->
+
+  <ul>
+  <li><a href="https://www.maine.gov/portal/index.html">My favorite website state of Maine</a></li>
+  <p> I liked this website the most because the background is beautiful; there is a big capitol building being surrounded by beautiful trees and sun. I liked that the website offers great source of information. There is an option to look up for whatever you are interested in. There are all info about the Covid, there is a "meet a governor" option that I thought was really cool. There are resources to start a business, form corporations, get licensing and permit advice, etc. Overall, I thought this was best organized website with the beautiful colors and background. </p>
+  <li><a href="https://www.maryland.gov/Pages/default.aspx">State of Maryland</a></li>
+  <p> I also really liked Maryland website because, pretty much like other ones, this website had beautiful background with the lake, and colors as well. The information about the state on the website are also well offered and I thought it was really user friendly. </p>
+    <li><a href="https://alaska.gov/">State of Alaska</a></li>
+    <p> I liked Alaska website because it is really well organized; I like that there are pictures and information about governor, the Alaska legislature, the Alaska congress system, and congressional delegation. I really like that there was a big picture of mountain in middle of website which immediately caught my attention. It just represents the state as a whole and can kind of tell you how the state looks like. </p>
+    <li><a href="https://portal.arkansas.gov/">State of Arkansas</a></li>
+    <p> I also really liked the website of Arkansas because I thought the lake background was really beautiful. The colors of the website remind me of fall season, and they really did a great job of making a website look really nice. </p>
+    <li><a href="https://portal.kansas.gov/">State of Kansas</a></li>
+    <p> I also liked the background on this website and the faces that are there. I think it is really cool. I also liked that there is a questions on the top that are probably most asked; for example: "How do get a driver's license in Kansas?" or "Who is the governor of Kansas?" etc. But this was my least favorite website because, besides those two, I didn't really like the rest because not much information is offered on the website. There are no information at the top that were offered on previous websites, so I just thought that the lack of info on this one kept me from liking it as much as I did other ones. </p> 
+    
+   
+  </ul>
+
+<!--Start unordered list of navigation links-->
+
+</body>
+
+</html>
