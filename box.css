@@ -1,13 +1,15 @@
 body {
 margin: 0;
   padding: 0;
+  background-image: linear-gradient(#ff0022, #0099ff)
 }
 
 .box1 {
 width: 400px;
   height: 400px;
-  background-color: light blue;
+  background-image: url("puppy.jpg")
   position: relative;
+  background-color: rgba(125,125,125,.5)
 }
 
 .box2, .box3 {
@@ -19,9 +21,9 @@ background-color: green;
 
 .box2 {
  /*visibility: hidden;*/
-  display: none;
-  visibility: visible;
   position: absolute;
-  top: 50px;
-  left: 50px;
+  top: 0px;
+  right: 0px;
+  background-color: rgba(0,255,0,1.0);
+  z-index: -999;
 }
