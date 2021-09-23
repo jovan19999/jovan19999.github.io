@@ -22,20 +22,20 @@ padding: 0px;
 }
 
 nav{
-background-color: #0b3d91;
+background-color: purple;
   padding: 10px;
 }
 
 nav a {
-color: purple;
+color: yellow;
   font-size: 160%;
   padding: 30px 50px; 
   text-decoration: none;
 }
 
 nav a:hover {
-background-color: green;
-  color: navy;
+background-color: plum;
+  color: yellow;
 }
 
 nav li {
