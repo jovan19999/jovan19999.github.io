@@ -1,0 +1,44 @@
+body {
+margin: 0;
+  padding: 0;
+}
+
+#wrap {
+width: 70%;
+  margin: 0 auto;
+}
+
+header{
+background-color: blue;
+  padding: 30px;
+  text-align: center;
+  color: white;
+}
+
+nav {
+background-color: red;
+  padding: 20;
+  text-align: center;
+}
+
+nav li{
+display: inline;
+}
+
+nav ul{
+margin: 0;
+}
+
+nav a{
+color: white;
+  text-decoration: none;
+  padding: 20px;
+}
+
+nav a:hover {
+background-color: maroon;
+}
+
+section {
+background-color: aqua;
+}
