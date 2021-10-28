@@ -41,4 +41,64 @@ background-color: maroon;
 
 section {
 background-color: aqua;
+  overflow: auto;
+}
+
+aside {
+width: 24%;
+ float: left;
+}
+
+aside li {
+list-style-type: none;
+}
+
+aside ul {
+margin: 0;
+  padding: 0;
+}
+
+aside a {
+padding: 10px 0;
+}
+
+article {
+width: 64%;
+  background-color: darkorchid;
+  float: right;
+  padding: 0 4% 4% 4%;
+}
+
+@media only screen and (max-width:600px) {
+
+ 
+  
+  body{
+  background-color: beige;
+  }
+  
+  #wrap {
+  width: 100%;
+  }
+  
+   nav {
+  padding:0;
+  }
+  
+  nav a {
+  display: block;
+    width: 100%;
+  }
+  
+  nav li, nav ul {
+  margin: 0;
+    padding: 0;
+  }
+  
+  aside, article {
+  width: 92%;
+    float: none;
+  }
+  
+  
 }
