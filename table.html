@@ -31,7 +31,7 @@
   </nav>
   
   
-  
+  <form>
   <section>
     <form method="post" action="thanks.html">
       
@@ -50,18 +50,42 @@
       <p>How did you hear about this website?</p>
       
       <p>
-        <input type="checkbox" id="social" name="website"> <label for="social">Social media</label><br>
-        <input type="checkbox" id="friend" name="website"> <label for="friend">Friend</label><br>
-        <input type="checkbox" id="search" name="website"> <label for="search">Search</label><br>
-
-
-      
-      
-      
-      
-      
-      
+        <input type="checkbox" id="social" name="website" value="Social"> <label for="social">Social media</label><br>
+        <input type="checkbox" id="friend" name="website" value="Friend"> <label for="friend">Friend</label><br>
+        <input type="checkbox" id="search" name="website" value="Search"> <label for="search">Search</label><br>
       </p>
+      <p>Have you ever been to this website before?</p>
+      
+      
+      
+   
+      <p>
+        <input type="radio" id="yes" name="before" value="Yes"><label for="yes">Yes</label> 
+                <input type="radio" id="no" name="before" value="No"><label for="no">No</label>  
+                <input type="radio" id="maybe" name="before" value="Maybe"><label for="maybe">Maybe</label>
+      </p>
+      
+      
+
+      <p>What is your favorite day of the week?</p>
+      
+      <select>
+        <option> value="">Select a day</option>
+        <option value="Friday">Friday</option>
+        <option value="Saturday">Saturday</option>
+        <option value="Sunday">Sunday</option>
+        <option value="Thursday">Thursday</option>
+      </select>
+      
+      
+      <p>Comments</p>
+      
+      <p><textarea name="comments" id="comments" placeholder="Type in your comment"></textarea></p>
+      
+      <p><input type="submit" value="Submit"></p>
+      
+      
+    
     
     
     
